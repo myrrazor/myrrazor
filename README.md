@@ -14,4 +14,4 @@ Lately, I’ve been building agentic tools related to productivity, security, an
 | **[Arthur Loop -- IN PROGRESS](https://github.com/myrrazor/arthur-loop)** | My way of executing loops in multi-agent workflows. Coordinates planning, implementation, and review through durable queues, saved artifacts, and explicit approval gates. |
 | **[AI Taste Research / NanoTaste -- IN PROGRESS](https://github.com/myrrazor/ai-taste-research)** | A research experiment where I'm trying to teach agents different types of "taste" and "style" and hopefully this can spark some more creative output. |
 
-If you’re working on agent workflows, developer tools, or applied AI, explore the projects above and connect through GitHub.
+If you’re interested in the things I'm working on feel free to reach out via GitHub or X!
