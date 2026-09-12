@@ -4,16 +4,14 @@
 
 I’m a software engineer working across cybersecurity, AI infrastructure, and product development.
 
-Lately, I’ve been building tools for working with coding agents: tracking the work, inspecting decisions, and keeping people in control.
+Lately, I’ve been building agentic tools related to productivity, security, and taste. Also dabbling in general-use, open-source ideas as well. I also drive some of my work through my **[OpenClaw](https://github.com/openclaw/openclaw)** here: **[Merlin](https://github.com/MerlinTailor)**
 
 ## Selected open source
 
 | Project | What it does |
 | --- | --- |
-| **[Atlas Tasker](https://github.com/myrrazor/atlas-tasker)** | An issue tracker for your terminal and your coding agents. Markdown tickets live in your repo, with boards, dependencies, review gates, and MCP integration. |
-| **[Arthur Loop](https://github.com/myrrazor/arthur-loop)** | A file-based control plane for AI development loops. Coordinates planning, implementation, and review through durable queues, saved artifacts, and explicit approval gates. |
-| **[AI Taste Research / NanoTaste](https://github.com/myrrazor/ai-taste-research)** | Research-stage tooling for testing how written taste rules affect output selection. A local, deterministic harness records each choice and the reasons behind it. |
-
-These projects share a preference for local files, visible state, and clear handoffs between agents and people. You should be able to inspect what happened and decide what happens next.
+| **[Atlas Tasker](https://github.com/myrrazor/atlas-tasker)** | An issue tracker for your terminal and your coding agents. All of your agents across devices can track markdown tickets and boards. |
+| **[Arthur Loop -- IN PROGRESS](https://github.com/myrrazor/arthur-loop)** | My way of executing loops in multi-agent workflows. Coordinates planning, implementation, and review through durable queues, saved artifacts, and explicit approval gates. |
+| **[AI Taste Research / NanoTaste -- IN PROGRESS](https://github.com/myrrazor/ai-taste-research)** | A research experiment where I'm trying to teach agents different types of "taste" and "style" and hopefully this can spark some more creative output. |
 
 If you’re working on agent workflows, developer tools, or applied AI, explore the projects above and connect through GitHub.
