@@ -1,6 +1,6 @@
 # myrrazor
 
-**Cybersecurity · AI infrastructure · Developer tools**
+**Cybersecurity · Agentic Developer tools · Hobby Apps**
 
 I’m a software engineer working across cybersecurity, AI infrastructure, and product development. If you’re interested in the things I'm working on feel free to reach out via GitHub or X!
 
