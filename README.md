@@ -6,7 +6,7 @@ I’m a software engineer working across cybersecurity, AI infrastructure, and p
 
 Lately, I’ve been building agentic tools related to productivity, security, and taste. Also dabbling in general-use, open-source ideas as well. I also drive some of my work through my **[OpenClaw](https://github.com/openclaw/openclaw)** here: **[Merlin](https://github.com/MerlinTailor)**
 
-## Selected open source
+## My Open Source Projects
 
 | Project | What it does |
 | --- | --- |
